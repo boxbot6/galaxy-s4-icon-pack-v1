@@ -2,4 +2,6 @@
 
 https://boxbot6.github.io/galaxy-s4-icon-pack-v1/
 
-please see 'icon-pack-template-basic' which replaces this.
+please see 'galaxy-s4-icon-pack' which replaces this.
+
+[https://github.com/boxbot6/galaxy-s4-icon-pack/](https://github.com/boxbot6/galaxy-s4-icon-pack/)
